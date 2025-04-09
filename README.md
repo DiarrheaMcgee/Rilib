@@ -1,4 +1,6 @@
 To Raylib—for proving that design philosophy is optional, that prefixes are overrated, and that software quality is just a matter of perspective. 
+
+For a more serious library see [RApp](https://github.com/ColleagueRiley/rapp)
 # Rilib
 ![rilib Logo](https://github.com/ColleagueRiley/rilib/blob/main/logo.jpg?raw=true)
 
